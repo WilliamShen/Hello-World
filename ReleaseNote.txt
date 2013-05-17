@@ -1,0 +1,39 @@
+									
+					###### 	GET STARTED 	######
+			login onto the build server, then open a terminal and change dir to the script folder
+			python teledebug.py 192.168.5.47
+			when prompting you to press "Control+D", just do it.
+			Notice:
+			Only for immv2 and used on the build server.
+
+												
+					######  SUPPORT OPTIONS   ######
+					
+			--help		Display the help information.
+			--version,-v	To view the current version of this tool.
+
+
+					######   Examples   ######
+					
+			python teledebug.py --help
+			python teledebug.py 192.168.5.47
+			python teledebug.py -v
+			python teledebug.py --version						
+																		
+									
+									
+					Release Note For teledebug
+									
+			
+
+					Release Number:	1.00
+
+			new features:		
+			1.support parameter "--help" to view the help information.	
+			2.add parameter "--version" or "-v" to display the release number.	
+			
+		
+
+	
+
+
